@@ -1,0 +1,16 @@
+Editör Klavye Kısayolları:
+- Ctrl + Sol / Sağ: seçili öğeyi döndür
+- Ctrl + Shift + Sol / Sağ: seçili öğeyi büyük adımlarla döndür
+- Shift + O / P: önceki / sonraki öğeyi seç
+- Sekme / Shift + Sekme: önceki / sonraki öğeyi seç
+- Ctrl + Yukarı / Aşağı: merkezi yakınlaştır / uzaklaştır
+- Ctrl + Z / Y: geri al / tekrar yap
+- Shift + 'fare ile seçili öğeyi yeniden boyutlandır': genişliği ve yüksekliği kilitle
+- Shift + Yukarı / Aşağı / Sol / Sağ: seçili öğeyi taşı
+- Shift + SCROLLER: fare konumuna yakınlaştır
+- Ctrl + A: tüm öğeleri seç
+- Ctrl + G: seçili öğeyi grupla veya grupdan çıkar
+- Ctrl + D: seçili öğeyi kopyala
+- Shift + 'Çizgi çiz': çizgi gradyanı yatay, dikey 45° çapraz
+- Ctrl + X: seçili öğeyi kes
+- Ctrl + C / V: seçili öğeyi kopyala / yapıştır

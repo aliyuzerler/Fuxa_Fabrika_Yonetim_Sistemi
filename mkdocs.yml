@@ -1,0 +1,62 @@
+site_name: FUXA Dokümantasyonu
+site_url: https://frangoteam.github.io/FUXA/
+
+theme:
+  name: material
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+
+  palette:
+    # Light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Koyu moda geç
+      logo: assets/logo.svg
+
+    # Dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Açık moda geç
+      logo: assets/logo.svg
+
+nav:
+  - Ana Sayfa: index.md
+  - Canlı Demo: https://frangoteam.github.io/
+  - Başlangıç:
+      - Kurulum ve Çalıştırma: Installing-and-Running.md
+  - Nasıl Yapılır:
+      - Cihazlar ve Tag'ler: HowTo-Devices-and-Tags.md
+      - Kontrolleri Bağlama: HowTo-bind-Controls.md
+      - Grafik Kontrolü: HowTo-Chart-Control.md
+      - Arayüz Yerleşimi: HowTo-UI-Layout.md
+      - Alarm Kurulumu: HowTo-setup-Alarms.md
+      - Şekil Tanımlama: HowTo-define-Shapes.md
+      - Boru Animasyonu: HowTo-animate-Pipe.md
+      - Zamanlayıcı: HowTo-Scheduler.md
+      - Node-RED: HowTo-Node-Red.md
+      - Projeyi Kaydet/Yükle: HowTo-save-load-Project.md
+      - Olay Yapılandırma: HowTo-configure-events.md
+      - Aynı Görünümü Kullanma: HowTo-use-same-view.md
+      - Script Yapılandırma: HowTo-configure-Script.md
+      - Tarifler (Recipe): HowTo-Recipes.md
+      - ODBC: HowTo-ODBC.md
+      - Widget'lar: HowTo-Widgets.md
+      - WebSockets: HowTo-WebSockets.md
+  - Ayarlar: Settings.md
+  - İpuçları ve Püf Noktaları: Tips-and-Tricks.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/frangoteam/FUXA
+      name: GitHub Deposu
+
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/WZhxz9uHh4
+      name: Discord Topluluğu
+
+copyright: >
+  Powered by <a href="https://frangoteam.org" target="_blank" rel="noopener">
+  <strong>frangoteam</strong></a>
